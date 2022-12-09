@@ -1,6 +1,6 @@
 version: "3"
 services:
-  ui-app:
+  app:
     build: .
     container_name: docker-react-app
     ports:
